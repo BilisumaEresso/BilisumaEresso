@@ -1,120 +1,92 @@
-<!-- Header Section -->
-<h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/bilisuma-eresso/" target="_blank">Bilisuma Eresso</a></h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | Information Systems Student</h3>
+<!-- ================= HEADER ================= -->
+
+<h1 align="center">Bilisuma Eresso</h1>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/bilisuma-eresso/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=26&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Backend+%26+System+Design+Enthusiast;Building+Scalable+Web+Applications" />
+</p>
+
+<p align="center">
+  <a href="https://bilisumaeresso.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
-  <a href="mailto:bilisumaere@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://linkedin.com/in/bilisuma-eresso">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/BilisumaEresso" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BilisumaEresso/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <a href="mailto:bilisumae@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## 🧠 About Me
-
-🎓 I’m a **3rd-year Information Systems student** at **Addis Ababa University** 
-💻 Passionate about **building full-stack web applications** using the **MERN stack (MongoDB, Express, React, Node.js)**  
-🌱 Currently improving my **system design** and **API optimization** skills  
-🧩 I love working on real-world problems and designing scalable digital solutions  
-
----
-
-## ⚡ Tech Stack
+<!-- ================= HERO GIF ================= -->
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=javascript,react,nodejs,express,mongodb,html,css,tailwind,java,cpp,git,postman,vscode" />
-</p>
-
-<p align="center">
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://img.shields.io/badge/Frontend-React%20%26%20TailwindCSS-blue?style=flat-square&logo=react" />
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Backend-Node.js%20%26%20Express-green?style=flat-square&logo=node.js" />
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=flat-square&logo=mongodb" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Version%20Control-Git-orange?style=flat-square&logo=git" />
-  </a>
+  <img src="https://camo.githubusercontent.com/6d67dbc6a59fc88808e981d4661d7357fa725d1884ad11790c7b82e9d0f92dbe/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f6e6974632d7065726d697373696f6e2d73797374656d2e61707073706f742e636f6d2f6f2f6769746875622d696d61676573253246646877616e6973682d636f64696e672e6769663f616c743d6d6564696126746f6b656e3d31626634346637302d386131322d343365372d626162372d663239393262653262666632" width="500"/>
 </p>
 
 ---
 
-## 🌐 Featured Projects
+## <img src="https://img.icons8.com/ios-filled/25/22c55e/user.png"/> About Me
 
-### 📰 [Blog App](https://bilisa-blog.vercel.app/)
-> [Frontend Repo](https://github.com/BilisumaEresso/react-blog-app) | [Backend Repo](https://github.com/BilisumaEresso/blog-rest-api)
-
-A **modern blogging platform** for developers to share tech content.  
-
-**Key Features:**
-- 🔒 Authentication & Role-based Access Control  
-- ☁️ Cloudinary integration for image uploads  
-- 🚀 Deployed using **Vercel** & **Render**  
-- 💬 Built entirely with **MERN stack** and **TailwindCSS**
+- Full-Stack Developer focused on **MERN stack architecture**
+- Building scalable REST APIs and modern frontend experiences
+- Currently learning **React Native** and mobile system design
+- Strong interest in backend performance and clean architecture
+- Portfolio: https://bilisumaeresso.vercel.app
 
 ---
 
-### 🏗️ [RE-construction](https://github.com/BilisumaEresso/RE-server)
-A **portfolio website** for small construction companies to display projects and attract clients.
-
-**Highlights:**
-- ⚙️ RESTful APIs with Express.js & MongoDB  
-- 🎨 Responsive UI built with TailwindCSS  
-- 🔁 Follows Agile principles & version control with Git
-
----
-
-## 🎓 Education
-
-**🎓 Addis Ababa University**  
-Bachelor of Science in **Information Systems**  
-📅 *Expected Graduation:* June 2027  
-⭐ *GPA:* 3.76  
-
----
-
-## 📊 GitHub Analytics
+## <img src="https://img.icons8.com/ios-filled/25/22c55e/code.png"/> Tech Stack
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BilisumaEresso&show_icons=true&theme=radical" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BilisumaEresso&theme=radical" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BilisumaEresso&layout=compact&theme=radical" width="50%" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,tailwind,nextjs,java,cpp,postgres,linux,git&perline=6"/>
 </p>
 
 ---
 
-## 🏆 Achievements
+## <img src="https://img.icons8.com/ios-filled/25/22c55e/source-code.png"/> Featured Projects
 
-- 🏅 Completed **MERN Stack Course on Udemy**  
-- 💻 Built & Deployed multiple full-stack apps using free cloud services  
-- 🔍 Consistent problem-solving on [LeetCode](https://leetcode.com/u/BilisumaEresso/)  
+### E-Commerce Platform
+Full-stack MERN application with authentication, payment integration, and admin dashboard.
+
+- JWT Authentication
+- REST API Architecture
+- Secure Payment Processing
 
 ---
 
-## 📫 Connect with Me
+### Technical Blog Platform
+Developer blogging platform implementing RBAC authorization and cloud media storage.
+
+- Role-Based Access Control
+- Modular Backend APIs
+- Cloud media optimization
+
+---
+
+### Interactive Portfolio
+Modern animated portfolio built with React and Framer Motion.
+
+Live → https://bilisumaeresso.vercel.app
+
+---
+
+## <img src="https://img.icons8.com/ios-filled/25/22c55e/combo-chart.png"/> GitHub Analytics
 
 <p align="center">
-  <a href="mailto:bilisumaere@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail--v1.png"/></a>
-  <a href="https://www.linkedin.com/in/bilisuma-eresso/"><img src="https://img.icons8.com/color/48/000000/linkedin.png"/></a>
-  <a href="https://github.com/BilisumaEresso"><img src="https://img.icons8.com/ios-glyphs/48/000000/github.png"/></a>
-  <a href="https://leetcode.com/u/BilisumaEresso/"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/null/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png"/></a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bilisumaeresso&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-<h3 align="center">⭐ "Code with purpose. Learn endlessly. Build boldly." ⭐</h3>
+## <img src="https://img.icons8.com/ios-filled/25/22c55e/workflow.png"/> Engineering Mindset
+
+```javascript
+const bilisuma = {
+  role: "Full Stack Developer",
+  stack: ["MongoDB", "Express", "React", "Node.js"],
+  focus: "Scalable backend systems",
+  philosophy: "Consistency beats intensity"
+};
