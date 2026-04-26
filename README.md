@@ -18,6 +18,11 @@
   <a href="https://www.linkedin.com/in/bilisuma-eresso"><img src="https://img.shields.io/badge/LinkedIn-0D47A1?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/bilisumaeresso"><img src="https://img.shields.io/badge/GitHub-0D47A1?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="mailto:bilisumaeresso@gmail.com"><img src="https://img.shields.io/badge/Gmail-0D47A1?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <p align="center">
+  <a href="https://t.me/devlogs_by_billy" target="_blank">
+    <img src="https://img.shields.io/badge/Join%20My%20Telegram-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+  </a>
+</p>
 </p>
 
 ---
