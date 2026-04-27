@@ -97,7 +97,7 @@ A complete blog application with authentication, rich content management, and a 
 ---
 
 ### 🕵️ OmishGo — Coming Soon
-Something exciting is in the works. Stay tuned. 👀
+Something exciting is in the works. Stay tuned. 👉👉
 
 ---
 
